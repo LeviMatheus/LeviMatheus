@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ## Sobre
 ![LeviMatheus Status](https://github-readme-stats.vercel.app/api?username=LeviMatheus&show_icons=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)
+<!--![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)-->
 
   
