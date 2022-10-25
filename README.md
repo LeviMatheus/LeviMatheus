@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-- 🌱 I’m currently learning **DevOps, AWS, CI & CD, UX**<br><br>
+- 🌱 I’m currently learning **DevOps, MachineLearning, UX**<br><br>
 - 💬 Ask me about **C#, Python, VB, RPA, UiPath, UX Design & UI, SQL**<br><br>
 - 📫 How to reach me **[Email](levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
