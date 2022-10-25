@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **: I never got a grade below 10 in biology in high school.**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/levi-matheus/) 
+[!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-matheus/) 
 
 # 💻 Tecnologias:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
