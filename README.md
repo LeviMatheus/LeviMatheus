@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)
 
   
