@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-- 🌱 I’m currently learning **DevOps, MachineLearning, UX**<br><br>
+- 🌱 I’m currently learning **Automated Tests, DevOps, MachineLearning, UX**<br><br>
 - 💬 Ask me about **C#, Python, VB, RPA, UiPath, UX Design & UI, SQL**<br><br>
 - 📫 How to reach me **[Email](levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ## Sobre
 ![LeviMatheus Status](https://github-readme-stats.vercel.app/api?username=LeviMatheus&show_icons=true)
-<!--![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)-->
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)-->
 
   
