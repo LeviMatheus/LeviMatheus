@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-- 🌱 I’m currently learning **Automated Tests, DevOps, MachineLearning, UX**<br><br>
+- 🌱 I’m currently learning **Intermediate C#, Intermediate Python, Basic Automated Tests, Basic DevOps, Intermediate MachineLearning and Intermediate UX**<br><br>
 - 💬 Ask me about **C#, Python, VB, RPA, UiPath, UX Design & UI, SQL**<br><br>
-- 📫 How to reach me **[Email](levi.matheusmartins@gmail.com)**<br><br>
+- 📫 How to reach me **[Email](mailto:levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
 - ⚡ Fun fact **: I never got a grade below 10 in biology in high school.**
 
