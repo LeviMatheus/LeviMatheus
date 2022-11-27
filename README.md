@@ -23,7 +23,8 @@
 <!-- Imagem -->
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-<ul><strong>🌱 I’m currently learning</strong>
+<strong>🌱 I’m currently learning</strong>
+<ul>
   <li>Intermediate C#</li>
   <li>Intermediate Python</li>
   <li>Basic Automated Tests</li>
