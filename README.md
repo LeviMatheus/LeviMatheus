@@ -34,7 +34,17 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-- 🌱 I’m currently learning **Intermediate C#, Intermediate Python, Basic Automated Tests, Basic DevOps, Intermediate MachineLearning and Intermediate UX**<br><br>
+<ul>🌱 I’m currently learning 
+**
+  <li>Intermediate C#</li>
+  <li>Intermediate Python</li>
+  <li>Basic Automated Tests</li>
+  <li>Basic DevOps</li>
+  <li>Intermediate MachineLearning</li>
+  <li>Intermediate UX</li>
+ **
+</ul>
+
 - 💬 Ask me about **C#, Python, VB, RPA, UiPath, UX Design & UI, SQL**<br><br>
 - 📫 How to reach me **[Email](mailto:levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
