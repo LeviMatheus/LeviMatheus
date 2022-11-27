@@ -1,20 +1,7 @@
-<!--
-**LeviMatheus/LeviMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- Título -->
 <h1 align="left">Levi Sange</h1>
 
+<!-- Logos -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,22 +17,22 @@ Here are some ideas to get you started:
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+<!-- Saudação -->
 <h2 align="left">I'm Levi Sange, Hello 👋</h2>
 
+<!-- Imagem -->
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-<ul>🌱 I’m currently learning 
-**
+<ul><strong>🌱 I’m currently learning</strong>
   <li>Intermediate C#</li>
   <li>Intermediate Python</li>
   <li>Basic Automated Tests</li>
   <li>Basic DevOps</li>
   <li>Intermediate MachineLearning</li>
   <li>Intermediate UX</li>
- **
 </ul>
 
-- 💬 Ask me about **C#, Python, VB, RPA, UiPath, UX Design & UI, SQL**<br><br>
+- 💬 Ask me about **C#, Python, RPA, UiPath, UX Design, SQL**<br><br>
 - 📫 How to reach me **[Email](mailto:levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
 - ⚡ Fun fact **: I never got a grade below 10 in biology in high school.**
