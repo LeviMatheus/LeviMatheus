@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="left">Levi Sange</h1>
+<h1 align="left">I'm Levi Sange, Hello 👋</h1>
 
 <!-- Logos -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -16,9 +16,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-<!-- Saudação -->
-<h2 align="left">I'm Levi Sange, Hello 👋</h2>
 
 <!-- Imagem -->
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
