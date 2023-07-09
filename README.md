@@ -41,7 +41,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-matheus/)
 
-## Sobre
+<!--## Sobre-->
 <!--![LeviMatheus Status](https://github-readme-stats.vercel.app/api?username=LeviMatheus&show_icons=true)-->
 <!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviMatheus)-->
 
