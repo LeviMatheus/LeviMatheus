@@ -24,20 +24,19 @@
 <!-- Imagem -->
 <img src="https://github.com/LeviMatheus/LeviMatheus/blob/main/meu%20novo%20cover.png" height="100px" align="right"/>
 
-<strong>🌱 I’m currently learning</strong>
+<strong>🌱 Currently Learning</strong>
 <ul>
+  <li>Advanced RPA</li>
   <li>Intermediate C#</li>
   <li>Intermediate Python</li>
-  <li>Basic Automated Tests</li>
-  <li>Basic DevOps</li>
-  <li>Intermediate MachineLearning</li>
-  <li>Intermediate UX</li>
+  <li>Intermediate IA, Machine & Deep Learning</li>
+  <li>Intermediate BPM</li>
 </ul>
 
 - 💬 Ask me about **C#, Python, RPA, UiPath, UX Design, SQL**<br><br>
 - 📫 How to reach me **[Email](mailto:levi.matheusmartins@gmail.com)**<br><br>
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
-- ⚡ Fun fact **: I never got a grade below 10 in biology in high school.**
+- ⚡ Fun fact **: I never got a grade below 9 in biology in High School.**
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-matheus/)
