@@ -1,20 +1,30 @@
-<!-- Title -->
-<h1 align="left">Hi there, I'm Levi Sange! 👋</h1>
 
-<strong>Currently working on:</strong>
-<ul>
-  <li><strong>Advanced RPA:</strong> Continuously transforming opportunities into automated processes that drive gains and productivity for businesses.</li>
-  <li><strong>.NET & Python Development:</strong> Dedicated to applying best development practices, design patterns, and staying abreast of the latest advancements in the development world.</li>
-  <li><strong>Process Design:</strong> Specialized in user experience design with a focus on service design to enhance user journeys across various processes, systems, and interfaces.</li>
-</ul>
+# Levi Matheus Guerreiro Sange
 
-- 💬 Feel free to ask me about **RPA, .NET applications, and Process Design**<br><br>
-- 📫 Reach out to me via **[Email](mailto:levi.matheusmartins@gmail.com)**<br><br>
-- 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/levi-matheus/)<br><br>
-- ⚡ Fun fact: Currently developing an MMO game that I love!
+👋 Hi! I'm Levi, passionate about technology, automation and process optimization.
 
-## 🌐 Socials
+## 🚀 About Me
+
+- **RPA Developer** with solid experience in process automation, workflow optimization and technical leadership since 2021.
+- Specialist in all phases of Robotic Process Automation (RPA), from mapping and design to implementation and support, using both low-code platforms and traditional development (.NET, Python, UiPath).
+- Enthusiast of process design and user experience, always seeking to improve business efficiency and people's lives through innovation.
+- Active in study groups, community projects and backend volunteer work.
+
+## 💡 Main Skills
+- RPA Development (UiPath, Power Automate, .NET, Python)
+- Process Mapping & Workflow Automation
+- Low-Code & Backend Solutions
+- Teamwork & Continuous Learning
+
+## 📫 Contact & Social
+- Email: [levi.matheusmartins@gmail.com](mailto:levi.matheusmartins@gmail.com)
+- LinkedIn: [linkedin.com/in/levi-matheus](https://www.linkedin.com/in/levi-matheus/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-matheus/)
 
-<h4>Purpose, Empathy, and Innovation</h4>
-<h5>❤️❌🤖</h5>
+## ⚡ Fun Fact
+Currently developing an MMO game that I love!
+
+---
+
+Purpose, Empathy, and Innovation
